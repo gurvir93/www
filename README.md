@@ -1,4 +1,4 @@
 # www
-git checkout --orphan branchname
+git checkout --orphan gh-pages
 
-http://username.github.io/repository-branch-name/
+http://gurvir93.github.io/www
