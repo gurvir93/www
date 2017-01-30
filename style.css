@@ -129,3 +129,11 @@ footer {
     font-size: 10pt;
     font-style: italic;
 }
+table {
+    margin: 0 auto;
+    
+}
+.sm-icons img {
+    height: 30px;
+    width: 30px;
+}
